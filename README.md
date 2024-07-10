@@ -55,8 +55,4 @@ UrbanStyle is a modern and user-friendly React-based e-commerce application that
 
 5. Open your browser and visit `http://localhost:3000` to access UrbanStyle.
 
-## Contributing
 
-We welcome contributions to UrbanStyle! If you find a bug or have an idea for a new feature, please open an issue or submit a pull request.
-
-Happy shopping with UrbanStyle!
