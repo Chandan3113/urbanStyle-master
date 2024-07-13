@@ -30,7 +30,7 @@ UrbanStyle is a modern and user-friendly React-based e-commerce application that
 
    ```bash
     git clone https://github.com/your-username urbanstyle.git
-    cd urbanstyle
+
 
    ```
 
